@@ -4,7 +4,7 @@ Identifying factories that are most prone to downtime by predicting downtime dur
 using 6 different datasets, determining important features with Chi-squared test, handled high cardinal categorical variable with
 target encoding and used cross-validation to avoid overfitting and built multiclass classification machine learning model.
 
-
+ ![Alt Text](https://github.com/aayanmaity/Predicting-the-downtime-duration-of-a-factory/blob/main/Datasets/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg)
 
 
 ## Project Details:
@@ -31,7 +31,7 @@ We will now have to use this curated data to create a machine learning model tha
 predict the `downtime_duration` so that the company can better handle downtimes and increase
 operational efficiency to better handle demand.
 
-# Dataset Description:
+## Dataset Description:
 
 Target attribute: "downtime_duration" (discrete_variable: 3 classes)
 
@@ -60,7 +60,7 @@ test_data.csv files and also some additional ids there is a record of the car_va
 that is being put together on the assembly line.
 
 
-# Tools used:
+## Tools used:
 
 **Code**: Python Version: 3.7
 
@@ -69,4 +69,27 @@ that is being put together on the assembly line.
 **For predictive analytics**: SciPy, scikit-learn, LightGBM, Tensorflow, Keras
 
 **For Reporting**: Canva
+
+## Tasks:
+
+● List down the insights/patterns observed from the visualizations.
+
+● Explain the impact of the most important attributes on the target attribute observed from
+data visualizations.
+
+## Answering Operation Team Questions:
+
+● Which factories are most prone to long downtime durations?
+
+● Which assembly line types are suspect of long downtime durations?
+
+● Any other recommendations/insights to improve the detection of downtime durations.
+
+● Is there any overfitting or underfitting problem? If yes, how do you address it?
+
+## Reports
+
+
+
+
 
