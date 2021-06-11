@@ -1,7 +1,7 @@
 # Predicting-the-downtime-duration-of-a-factory
 
 Identifying factories that are most prone to downtime by predicting downtime duration of various factories,
-using 6 different datasets, determining important features with Chi-squared test, handled high cardinal categorical variable with
+using 6 different datasets,handled high cardinal categorical variable with
 target encoding and used cross-validation to avoid overfitting and built multiclass classification machine learning model.
 
  ![Alt Text](https://github.com/aayanmaity/Predicting-the-downtime-duration-of-a-factory/blob/main/Datasets/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg)
@@ -62,7 +62,7 @@ that is being put together on the assembly line.
 
 ## Tools used:
 
-**Code**: Python Version: 3.7
+**Code**: Python Version: 3.8
 
 **For data wrangling and visualization**: NumPy, Pandas, Matplotlib, Seaborn
 
@@ -86,9 +86,6 @@ data visualizations.
 ● Any other recommendations/insights to improve the detection of downtime durations.
 
 ● Is there any overfitting or underfitting problem? If yes, how do you address it?
-
-## Reports
-
 
 
 
